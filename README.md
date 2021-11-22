@@ -45,23 +45,21 @@ Project has some case question using the data:
 The cluster value where this decrease in inertia value becomes constant can be chosen as the right cluster value for our data. Looking at the above elbow curve, we can choose any number of clusters between 2 to 4.
 
 ## Result
-* Comparison Of The number Of Clusters
+### Comparison Of The number Of Clusters
 
-![download (1)](https://user-images.githubusercontent.com/85033777/142931087-b711fc88-e2db-4985-a0aa-9138189efa5e.png)
+![perbandingan](https://user-images.githubusercontent.com/85033777/142935011-1f9dcadc-2d3f-41f6-923e-ffd00e6ecc49.png)
 
-* Cluster(s) Analysis
+From the graph above, it appears that there is a very large difference between cluster 0 and cluster 1. The results show that there are 9844 or 89.5% of data in cluster 0, while the remaining 1150 or 10.5% of data are in cluster 1.
+
+### Cluster(s) Analysis
   - Cluster 0
- 
-![klaster 0](https://user-images.githubusercontent.com/85033777/142931160-afa7d091-3006-4847-a423-cd46ee357186.png)
 
-Cluster 0 shows that there are many words that have a 'negative' connotation. This means that there are still many people who are hesitant or do not support vaccination in Indonesia 
+![cluster 0](https://user-images.githubusercontent.com/85033777/142935018-b3e2a4ce-0553-4024-8a7b-8dc89eede6c2.png)
 
-  - Cluater 1
+Cluster 0 shows that there are many words that have a 'negative' connotation. This means that there are still many people who are hesitant or do not support vaccination in Indonesia
+  - Cluster 1
 
-![klasster 1](https://user-images.githubusercontent.com/85033777/142931181-86958b1a-543d-4b04-bb01-1535bf13c3be.png)
+![cluster 1](https://user-images.githubusercontent.com/85033777/142935015-063b3468-3a6e-46eb-93d9-45e44dd6b711.png)
 
-
-
-![klaster 2](https://user-images.githubusercontent.com/85033777/142931178-95cedfbd-315c-467e-8895-c6927b40ecb7.png)
-
+Cluster 1 shows that there are sets of word that have a 'positive' connotation. This means that there are people who already support the vaccination program in Indonesia
 
