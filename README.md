@@ -39,7 +39,7 @@ Project has some case question using the data:
 
 ## K-Means Clustering
 * Finding the Optimal Number of Clusters Using Elbow Method
-
+![download](https://user-images.githubusercontent.com/85033777/142930899-3df3616a-8e61-4a78-9ade-a6078574da67.png)
 
 ## Result
 
