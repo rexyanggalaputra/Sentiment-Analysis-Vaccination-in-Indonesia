@@ -36,3 +36,10 @@ This sentiment analysis aims to find out how the public reacts to vaccination in
 Project has some case question using the data:
 1. How do people react to the vaccination program?
 2. What policies should be carried out by the government?
+
+## K-Means Clustering
+* Finding the Optimal Number of Clusters Using Elbow Method
+
+
+## Result
+
