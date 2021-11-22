@@ -25,3 +25,14 @@ With the current presence of the Covid-19 vaccine, there has been an extraordina
   - retweets          : How many retweets
   - is_retweet        : Is retweet or not
   - reply_to_status   : Reply
+
+## Data Preparation
+* Code Used      : Jupyter Notebook
+* Library(es)    : Pandas, Numpy, NLTK, Sastrawi, Scikit-Learn, Wordcloud
+
+## Case Understanding
+This sentiment analysis aims to find out how the public reacts to vaccination in Indonesia.
+
+Project has some case question using the data:
+1. How do people react to the vaccination program?
+2. What policies should be carried out by the government?
