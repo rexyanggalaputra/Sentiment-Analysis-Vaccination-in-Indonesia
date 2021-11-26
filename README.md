@@ -64,3 +64,15 @@ Cluster 0 shows that there are many words that have a 'negative' connotation. Th
 Cluster 1 shows that there are sets of word that have a 'positive' connotation. This means that there are people who already support the vaccination program in Indonesia
 
 ## Summary
+
+When the vaccine was first made, which was around November 2020 to January 2021, in Indonesia there were several obstacles related to the vaccination program. Public complaints submitted through one of the social media, namely Twitter, gave a lot of comments where they were hesitant or did not support this vaccination program. After analyzing it with real life, it turns out that people still think that vaccination can have side effects on the body, therefore in the 'results' section the number of 'negative' comments is much higher than 'positive' comments.
+
+## Policy Recommendations 
+
+To raise public awareness of the importance of vaccination, the government can consider the following policies:
+
+1. The local government provides socialization to the public about the importance of vaccination so that the pandemic can be immediately resolved. Socialization at the regional level can be done through villages or directly by implementing health protocols.
+
+2. The provincial government and the ministry of health can also conduct socialization through social media and provide concrete information related to vaccination programs through the website of the ministry of health or others.
+
+3. The government can continue the program of providing free vaccinations to the general public.
