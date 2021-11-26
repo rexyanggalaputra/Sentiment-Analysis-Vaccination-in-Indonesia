@@ -63,3 +63,4 @@ Cluster 0 shows that there are many words that have a 'negative' connotation. Th
 
 Cluster 1 shows that there are sets of word that have a 'positive' connotation. This means that there are people who already support the vaccination program in Indonesia
 
+## Summary
