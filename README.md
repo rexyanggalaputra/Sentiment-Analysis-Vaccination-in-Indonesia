@@ -1,6 +1,15 @@
 # Sentiment Analysis Vaccination in Indonesia
 Covid-19 vaccine is something that is highly anticipated all over the world. One of them is Indonesia. However, the presence of the Covid-19 vaccine for now has many pros and cons. The government is currently very aggressive in pushing the presence of a Covid-19 vaccine as soon as possible. Due to the impact caused by Covid-19, it can greatly worsen the condition of the Indonesian economy.
-With the current presence of the Covid-19 vaccine, there has been an extraordinary response from the community. Some of these responses were also conveyed through social media such as Twitter, Instagram, Facebook, etc 
+With the current presence of the Covid-19 vaccine, there has been an extraordinary response from the community. Some of these responses were also conveyed through social media such as Twitter, Instagram, Facebook, etc.
+
+## Case Understanding
+This sentiment analysis aims to find out how the public reacts to vaccination in Indonesia.
+
+Project has some case question using the data:
+1. How do people react to the vaccination program?
+2. What policies should be carried out by the government?
+
+
 ## Data Understanding
 * The datasets is about vaccination in Indonesia from Twitter started on 1/11/20 using #vaksin and #vaksinasi hastags
 
@@ -29,13 +38,6 @@ With the current presence of the Covid-19 vaccine, there has been an extraordina
 ## Data Preparation
 * Code Used      : Jupyter Notebook
 * Library(es)    : Pandas, Numpy, NLTK, Sastrawi, Scikit-Learn, Wordcloud
-
-## Case Understanding
-This sentiment analysis aims to find out how the public reacts to vaccination in Indonesia.
-
-Project has some case question using the data:
-1. How do people react to the vaccination program?
-2. What policies should be carried out by the government?
 
 ## K-Means Clustering
 * Finding the Optimal Number of Clusters Using Elbow Method
